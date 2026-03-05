@@ -1,0 +1,2 @@
+neue Sachen
+-->ich schreibe etwas neues um git reset --mixed zu zeigen 🫀
